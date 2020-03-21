@@ -1,4 +1,4 @@
-print("Hellow GitHub")
+print("Hello GitHub")
 
 
 
